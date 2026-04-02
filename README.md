@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](image-1.png)
 # Pet Mind Reader
 
 Pet Mind Reader is a fun web app where you upload a pet photo and get what your pet is "thinking".
